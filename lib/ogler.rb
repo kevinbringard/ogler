@@ -1,0 +1,3 @@
+module Ogler
+  # Your code goes here...
+end
