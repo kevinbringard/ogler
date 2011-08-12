@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Kevin Bringard"]
   s.email       = ["kevinbringard@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/kevinbringard/ogler"
   s.summary     = %q{Uploader for glance using ogle}
   s.description = %q{Uploader for glance which uses the ogle library to be completely standalone}
 
