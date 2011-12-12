@@ -14,7 +14,7 @@ gem install ogler
 
 Please see the examples wiki here: https://github.com/kevinbringard/ogler/wiki/
 
-### Limitations
+## Limitations
 
 We currently do not support keystone authentication with Glance
 
