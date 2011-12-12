@@ -1,4 +1,4 @@
-# Ogle
+# Ogler
 
 > Ogler is an image uploader for the OpenStack [Glance](http://glance.openstack.org/) image service.
 
@@ -12,7 +12,7 @@ gem install ogler
 
 ### Examples
 
-Please see the examples wiki here: https://github.com/kevinbringard/ogler/wiki/
+Please see the examples wiki here: https://github.com/kevinbringard/ogler/wiki/Examples
 
 ## Limitations
 
