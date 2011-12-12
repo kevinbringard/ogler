@@ -20,6 +20,12 @@
     	-a, --arch ARCH                  The architecture of the image (x86_64, amd64, i386, etc) (required)
     	-c, --custom_fields a=1,b=2,c=3  Custom fields you wish to define
     	-h, --help                       Display the help screen
-	
+
 ### Examples
-	ogler -i maverick-server-cloudimg-amd64.img  -k maverick-server-cloudimg-amd64-vmlinuz-virtual -d ubuntu -v 10.10 -a x86_64 -e 2.6.35
+  ogler -i maverick-server-cloudimg-amd64.img  -k maverick-server-cloudimg-amd64-vmlinuz-virtual -d ubuntu -v 10.10 -a x86_64 -e 2.6.35
+
+### Limitations
+  We currently do not support keystone authentication with Glance
+
+## ToDos
+  Add Keystone authentication support
