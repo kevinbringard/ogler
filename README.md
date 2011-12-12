@@ -16,8 +16,8 @@ Please see the examples wiki here: https://github.com/kevinbringard/ogler/wiki/
 
 ## Limitations
 
-We currently do not support keystone authentication with Glance
+* We currently do not support keystone authentication with Glance
 
 ## TODOs
 
-Add Keystone authentication support
+* Add Keystone authentication support
